@@ -1,0 +1,36 @@
+style.css
+body {
+	font-family: arial;
+	color: brown;
+	margin: 0; padding: 0;
+}
+
+footer{
+	font-family: arial;
+	color: black;
+}
+
+h1{
+	font-family: arial;
+	margin: 0;padding: 0;
+}
+
+h2{
+	font-family: arial;
+	color: darkred;
+}
+
+h3{
+	font-family: arial;
+	color: darkred;
+}
+
+h4{
+	font-family: arial;
+	color: darkred;
+}
+
+img{
+	width: 100%;
+	height: 100%;
+}
